@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "ProfiledSaves",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/7a4ab38bf7e144a596b1f53fd537d63c"
 		}
 	]
 }
